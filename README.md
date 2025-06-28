@@ -12,3 +12,6 @@ Java Endless Runner Game - School Project
 - Lags cause buggy physics
 - no GPU support, slow rendering
 - no comments yet
+
+### Sources:
+- cake: https://www.iconarchive.com/show/fat-sugar-food-icons-by-iconarchive/Cake-icon.html
