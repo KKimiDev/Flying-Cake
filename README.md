@@ -1,13 +1,13 @@
 # Flying-Cake
 Java Endless Runner Game - School Project
 
-# Features:
+## Features:
 - Simple Custom Game Engine
 - 2 movement types
 - 2 obstacle types
 - auto save function
 
-# Reflection:
+## Reflection:
 - Custom Game Engine is partly weirdly intertwined with Java Frameworks
 - Lags cause buggy physics
 - no GPU support, slow rendering
